@@ -1,0 +1,2001 @@
+Age,SkinTone,Sex,Region,Season,Occasion,RecommendedStyle
+20,medium,female,south,spring,party,kurti
+56,fair,male,east,spring,wedding,blazer
+48,dark,female,east,spring,casual,kurti
+41,medium,female,west,summer,casual,jeans
+27,medium,female,north,winter,formal,kurti
+37,medium,male,east,spring,party,hoodie
+25,dark,male,east,spring,casual,casual t-shirt
+40,fair,male,north,monsoon,casual,casual t-shirt
+45,medium,female,east,summer,party,dress
+27,dark,female,east,summer,party,kurti
+33,dark,male,west,monsoon,wedding,blazer
+60,dark,female,east,winter,formal,blazer
+18,fair,female,south,monsoon,casual,jeans
+18,fair,male,east,summer,party,jeans
+45,medium,female,north,summer,casual,kurti
+17,medium,male,west,spring,wedding,blazer
+15,fair,male,west,summer,casual,casual t-shirt
+15,medium,female,south,winter,formal,kurti
+17,medium,female,north,summer,party,kurti
+37,medium,male,west,summer,casual,jeans
+17,fair,male,north,monsoon,party,hoodie
+15,medium,male,west,spring,formal,formal shirt
+50,dark,male,north,monsoon,formal,formal shirt
+15,fair,male,north,monsoon,party,hoodie
+56,medium,female,west,winter,party,dress
+47,dark,female,west,monsoon,casual,jeans
+19,medium,male,south,winter,wedding,blazer
+38,fair,female,east,spring,formal,blazer
+25,fair,male,south,spring,party,jeans
+57,fair,male,east,spring,formal,formal shirt
+33,dark,female,east,spring,party,dress
+29,fair,male,south,winter,party,hoodie
+33,fair,female,east,winter,casual,jeans
+29,medium,male,west,summer,formal,formal shirt
+55,fair,male,east,monsoon,formal,formal shirt
+21,dark,female,west,spring,party,dress
+57,fair,male,south,summer,formal,formal shirt
+27,medium,male,north,spring,party,jeans
+41,fair,female,north,monsoon,formal,blazer
+16,medium,female,east,summer,party,dress
+18,medium,male,south,winter,casual,casual t-shirt
+36,fair,male,north,winter,party,hoodie
+20,fair,male,west,spring,formal,formal shirt
+17,fair,female,north,spring,wedding,saree
+39,medium,female,south,spring,formal,kurti
+16,fair,male,east,monsoon,wedding,blazer
+41,dark,female,north,spring,wedding,saree
+38,fair,female,south,spring,wedding,saree
+24,medium,female,south,spring,casual,kurti
+51,dark,female,east,winter,party,kurti
+23,medium,male,west,monsoon,formal,formal shirt
+23,medium,male,north,spring,party,jeans
+27,dark,male,east,summer,wedding,blazer
+24,fair,female,north,summer,wedding,saree
+32,fair,female,east,monsoon,wedding,saree
+25,medium,male,east,spring,party,jeans
+27,medium,female,west,monsoon,party,kurti
+42,dark,female,north,spring,wedding,saree
+49,medium,male,south,summer,casual,casual t-shirt
+22,dark,male,west,monsoon,party,jeans
+32,medium,male,west,summer,party,jeans
+24,medium,female,north,summer,formal,kurti
+21,medium,female,west,summer,party,dress
+46,medium,female,south,summer,casual,kurti
+40,fair,female,west,summer,wedding,saree
+29,fair,female,south,spring,formal,blazer
+27,medium,male,north,spring,formal,formal shirt
+20,medium,male,north,summer,casual,jeans
+46,medium,male,north,summer,wedding,blazer
+31,dark,male,east,summer,formal,formal shirt
+39,medium,male,north,monsoon,wedding,blazer
+38,fair,male,east,winter,formal,formal shirt
+34,fair,female,east,monsoon,casual,jeans
+28,dark,male,east,spring,casual,casual t-shirt
+19,dark,female,west,winter,formal,blazer
+44,fair,female,east,winter,wedding,saree
+49,fair,male,east,winter,casual,casual t-shirt
+26,dark,male,west,spring,formal,formal shirt
+54,fair,male,south,summer,casual,jeans
+34,medium,male,east,winter,wedding,blazer
+59,medium,female,south,monsoon,party,kurti
+53,dark,male,north,winter,formal,formal shirt
+21,medium,male,north,monsoon,party,jeans
+24,dark,female,north,spring,wedding,saree
+36,medium,female,south,winter,casual,jeans
+39,fair,male,west,monsoon,wedding,blazer
+41,medium,male,west,spring,wedding,blazer
+56,dark,male,south,summer,formal,formal shirt
+58,medium,female,north,spring,casual,jeans
+35,fair,male,north,spring,formal,formal shirt
+56,fair,male,south,summer,casual,casual t-shirt
+21,medium,male,west,summer,party,jeans
+57,fair,female,north,monsoon,party,kurti
+24,medium,female,south,winter,casual,jeans
+32,dark,male,west,spring,wedding,blazer
+51,fair,male,north,spring,casual,casual t-shirt
+47,medium,male,east,summer,party,jeans
+31,dark,female,north,spring,formal,blazer
+16,medium,male,west,spring,casual,jeans
+35,fair,male,west,spring,casual,jeans
+28,medium,male,east,summer,formal,formal shirt
+33,dark,male,south,winter,formal,formal shirt
+31,fair,female,north,monsoon,formal,kurti
+36,medium,male,south,monsoon,formal,formal shirt
+48,medium,male,south,spring,formal,formal shirt
+58,medium,male,south,summer,wedding,blazer
+26,dark,male,east,spring,wedding,blazer
+21,medium,female,west,winter,formal,kurti
+39,dark,male,north,winter,casual,jeans
+46,dark,male,south,monsoon,casual,jeans
+37,medium,female,west,monsoon,party,dress
+17,medium,female,north,monsoon,formal,blazer
+31,medium,male,east,winter,wedding,blazer
+41,dark,male,east,winter,party,jeans
+56,medium,male,north,monsoon,formal,formal shirt
+60,fair,male,south,spring,party,hoodie
+42,dark,male,west,summer,party,hoodie
+57,fair,male,west,monsoon,party,hoodie
+32,fair,male,north,spring,party,jeans
+42,fair,male,south,summer,casual,jeans
+60,fair,female,south,monsoon,casual,kurti
+57,dark,female,south,summer,casual,kurti
+47,fair,female,north,monsoon,party,kurti
+51,medium,female,north,monsoon,wedding,saree
+43,fair,female,north,summer,party,dress
+28,fair,female,north,summer,wedding,saree
+15,medium,male,north,monsoon,formal,formal shirt
+27,medium,male,east,summer,formal,formal shirt
+32,dark,female,north,summer,casual,kurti
+37,medium,female,north,monsoon,casual,jeans
+29,medium,male,east,spring,wedding,blazer
+39,fair,male,west,winter,casual,casual t-shirt
+60,medium,female,east,spring,formal,blazer
+21,medium,female,south,winter,party,kurti
+22,fair,female,west,spring,casual,kurti
+43,medium,female,north,monsoon,casual,jeans
+54,fair,male,south,spring,casual,jeans
+27,dark,male,east,summer,formal,formal shirt
+58,fair,female,east,monsoon,party,dress
+41,dark,female,north,winter,party,dress
+60,fair,male,west,monsoon,party,jeans
+47,medium,male,south,monsoon,formal,formal shirt
+20,medium,female,west,summer,party,kurti
+52,dark,male,east,winter,casual,jeans
+54,fair,male,west,monsoon,casual,casual t-shirt
+60,dark,female,east,winter,wedding,saree
+32,medium,male,west,winter,casual,jeans
+40,medium,female,west,monsoon,casual,jeans
+33,dark,male,south,monsoon,party,hoodie
+46,fair,female,north,winter,casual,jeans
+48,medium,female,north,spring,formal,blazer
+40,dark,female,south,monsoon,formal,blazer
+31,medium,female,west,monsoon,party,dress
+32,dark,male,north,monsoon,wedding,blazer
+49,medium,male,west,winter,formal,formal shirt
+38,dark,female,south,spring,wedding,saree
+39,fair,male,west,summer,wedding,blazer
+26,dark,male,south,winter,casual,jeans
+55,medium,female,south,winter,party,dress
+60,dark,male,west,summer,casual,jeans
+52,medium,male,south,spring,party,jeans
+23,fair,female,north,monsoon,formal,kurti
+43,fair,female,east,summer,party,kurti
+57,medium,female,north,winter,party,dress
+35,fair,male,east,spring,casual,jeans
+53,medium,male,north,winter,formal,formal shirt
+21,medium,female,south,spring,casual,kurti
+29,medium,female,south,monsoon,formal,kurti
+57,fair,male,west,winter,wedding,blazer
+32,medium,male,south,winter,wedding,blazer
+17,dark,male,west,winter,wedding,blazer
+34,medium,female,south,monsoon,formal,kurti
+34,medium,female,west,monsoon,wedding,saree
+22,medium,male,north,monsoon,casual,casual t-shirt
+39,fair,male,west,summer,casual,jeans
+38,dark,male,west,summer,party,hoodie
+55,dark,female,west,monsoon,formal,blazer
+38,dark,female,north,spring,casual,jeans
+58,dark,female,south,spring,wedding,saree
+30,medium,female,east,summer,wedding,saree
+29,dark,male,east,winter,casual,jeans
+51,dark,female,east,summer,formal,blazer
+16,dark,male,east,spring,formal,formal shirt
+31,medium,female,east,winter,party,kurti
+31,fair,male,south,spring,casual,casual t-shirt
+16,medium,female,west,monsoon,wedding,saree
+50,medium,male,north,winter,party,jeans
+37,medium,female,west,summer,formal,blazer
+49,medium,male,north,monsoon,casual,casual t-shirt
+29,medium,female,south,summer,wedding,saree
+27,fair,female,north,summer,wedding,saree
+26,dark,female,west,spring,wedding,saree
+56,dark,female,east,winter,party,dress
+59,dark,female,east,winter,casual,kurti
+27,fair,male,east,monsoon,wedding,blazer
+48,fair,female,north,summer,party,dress
+38,medium,male,east,spring,casual,jeans
+36,medium,female,north,monsoon,casual,jeans
+17,fair,female,east,spring,party,kurti
+23,medium,male,east,spring,formal,formal shirt
+49,medium,male,west,monsoon,casual,casual t-shirt
+21,fair,male,north,summer,wedding,blazer
+30,medium,male,west,summer,casual,jeans
+58,medium,male,north,monsoon,party,jeans
+36,medium,male,west,spring,party,hoodie
+18,medium,male,west,monsoon,formal,formal shirt
+46,medium,female,east,spring,party,dress
+49,fair,female,east,monsoon,casual,jeans
+31,medium,male,west,summer,party,jeans
+26,fair,female,south,summer,formal,kurti
+44,fair,male,north,spring,party,jeans
+36,fair,male,north,summer,party,hoodie
+57,fair,male,south,spring,party,jeans
+40,medium,female,east,winter,casual,kurti
+19,medium,male,south,spring,party,jeans
+22,dark,female,south,summer,wedding,saree
+18,fair,male,west,monsoon,party,hoodie
+29,medium,male,south,winter,formal,formal shirt
+32,medium,male,west,spring,casual,jeans
+18,medium,male,north,winter,party,jeans
+21,medium,female,east,winter,formal,kurti
+54,medium,male,west,spring,party,hoodie
+29,fair,male,east,spring,casual,jeans
+46,fair,female,south,winter,wedding,saree
+16,medium,female,east,winter,formal,kurti
+47,fair,male,west,spring,formal,formal shirt
+22,medium,male,north,monsoon,casual,jeans
+55,fair,male,east,winter,formal,formal shirt
+56,dark,male,south,monsoon,formal,formal shirt
+20,fair,male,east,summer,wedding,blazer
+56,dark,male,north,monsoon,casual,jeans
+25,fair,female,north,spring,wedding,saree
+21,fair,male,south,summer,casual,casual t-shirt
+45,medium,female,north,monsoon,party,kurti
+49,fair,male,south,monsoon,wedding,blazer
+40,medium,female,south,spring,party,kurti
+58,fair,male,west,summer,casual,jeans
+58,dark,male,north,monsoon,formal,formal shirt
+47,medium,female,east,summer,wedding,saree
+58,dark,female,south,spring,party,dress
+40,fair,female,east,winter,formal,blazer
+25,fair,female,east,monsoon,formal,kurti
+30,fair,male,north,spring,formal,formal shirt
+56,dark,female,south,spring,party,dress
+25,fair,male,south,spring,formal,formal shirt
+35,medium,male,north,monsoon,casual,jeans
+47,dark,female,north,summer,casual,jeans
+31,dark,male,north,spring,party,hoodie
+50,fair,male,south,summer,casual,casual t-shirt
+56,medium,male,east,summer,party,jeans
+55,fair,male,south,monsoon,party,hoodie
+42,dark,male,west,winter,wedding,blazer
+55,dark,female,east,winter,wedding,saree
+18,fair,male,east,monsoon,formal,formal shirt
+40,dark,female,east,summer,casual,kurti
+42,fair,male,east,monsoon,party,jeans
+30,medium,male,east,monsoon,casual,jeans
+58,fair,female,west,spring,casual,kurti
+41,medium,female,west,summer,formal,kurti
+27,fair,female,north,spring,casual,kurti
+58,dark,male,east,winter,casual,casual t-shirt
+35,medium,female,east,summer,formal,kurti
+41,medium,female,west,summer,party,kurti
+56,medium,male,north,winter,casual,jeans
+54,dark,male,west,winter,casual,jeans
+16,dark,female,north,summer,wedding,saree
+29,dark,male,south,summer,formal,formal shirt
+18,fair,female,south,spring,formal,blazer
+23,dark,female,east,winter,formal,kurti
+42,fair,female,east,spring,formal,kurti
+48,medium,male,north,winter,wedding,blazer
+19,medium,male,west,winter,wedding,blazer
+26,dark,female,south,spring,formal,kurti
+16,medium,male,south,summer,casual,jeans
+54,medium,female,west,monsoon,casual,kurti
+45,dark,female,east,winter,party,kurti
+19,dark,male,west,monsoon,formal,formal shirt
+51,fair,male,east,summer,party,hoodie
+26,dark,male,north,spring,formal,formal shirt
+50,dark,female,west,monsoon,casual,kurti
+34,fair,female,north,spring,formal,blazer
+18,medium,male,north,winter,casual,casual t-shirt
+25,dark,male,east,summer,casual,casual t-shirt
+31,medium,male,east,winter,formal,formal shirt
+18,fair,female,south,spring,wedding,saree
+50,medium,female,north,summer,wedding,saree
+22,fair,male,north,monsoon,formal,formal shirt
+36,medium,female,west,spring,wedding,saree
+20,dark,male,west,winter,casual,jeans
+23,medium,female,north,monsoon,wedding,saree
+23,medium,female,west,winter,formal,kurti
+27,medium,male,east,monsoon,formal,formal shirt
+47,medium,male,west,spring,formal,formal shirt
+23,medium,female,east,summer,party,dress
+23,dark,male,north,monsoon,formal,formal shirt
+45,medium,male,north,spring,wedding,blazer
+20,medium,female,east,summer,party,dress
+18,dark,male,south,winter,party,jeans
+38,dark,female,south,winter,formal,kurti
+20,dark,female,west,summer,wedding,saree
+21,dark,male,east,spring,wedding,blazer
+51,fair,male,north,spring,party,hoodie
+30,dark,female,north,summer,formal,kurti
+15,fair,male,east,winter,formal,formal shirt
+15,medium,female,north,spring,wedding,saree
+16,dark,male,south,summer,casual,jeans
+59,fair,female,south,monsoon,party,dress
+42,medium,female,south,monsoon,party,dress
+15,medium,female,east,monsoon,wedding,saree
+22,medium,female,west,winter,wedding,saree
+37,medium,female,east,winter,casual,jeans
+57,dark,male,east,spring,party,jeans
+25,dark,male,west,spring,wedding,blazer
+21,dark,female,north,monsoon,wedding,saree
+40,dark,male,east,spring,wedding,blazer
+16,fair,female,west,winter,casual,kurti
+46,dark,female,west,spring,formal,kurti
+26,fair,male,west,summer,party,hoodie
+48,medium,female,north,spring,party,kurti
+21,medium,male,east,summer,wedding,blazer
+26,dark,male,west,monsoon,wedding,blazer
+46,medium,female,west,monsoon,party,dress
+54,medium,male,east,spring,party,hoodie
+29,medium,female,north,summer,party,kurti
+49,medium,male,west,spring,wedding,blazer
+39,dark,female,west,winter,casual,jeans
+37,fair,male,west,winter,party,jeans
+52,dark,male,west,winter,wedding,blazer
+18,medium,male,west,winter,formal,formal shirt
+55,fair,female,south,winter,wedding,saree
+49,medium,male,south,winter,party,jeans
+40,dark,male,east,summer,wedding,blazer
+29,dark,female,north,summer,casual,kurti
+20,fair,female,east,spring,party,dress
+34,dark,female,south,monsoon,wedding,saree
+56,fair,female,south,monsoon,party,dress
+19,dark,male,west,summer,casual,jeans
+53,medium,female,west,summer,casual,kurti
+43,medium,male,south,winter,casual,jeans
+15,dark,female,south,monsoon,casual,jeans
+56,fair,male,east,winter,formal,formal shirt
+48,fair,female,west,monsoon,party,kurti
+55,medium,male,south,monsoon,party,hoodie
+44,medium,male,north,spring,casual,jeans
+56,dark,female,east,winter,formal,kurti
+23,medium,female,west,winter,wedding,saree
+37,dark,female,south,summer,party,dress
+45,fair,male,south,summer,wedding,blazer
+55,fair,male,north,winter,casual,casual t-shirt
+25,dark,female,north,spring,formal,blazer
+41,fair,female,east,monsoon,wedding,saree
+53,medium,male,south,monsoon,party,jeans
+42,fair,male,east,monsoon,casual,jeans
+21,dark,male,south,winter,casual,casual t-shirt
+54,medium,female,east,spring,formal,kurti
+17,fair,female,west,winter,formal,blazer
+44,medium,male,west,spring,party,hoodie
+26,fair,female,east,spring,wedding,saree
+56,fair,male,south,summer,formal,formal shirt
+39,fair,female,west,spring,casual,kurti
+33,medium,male,north,winter,casual,jeans
+18,fair,female,west,summer,formal,kurti
+37,dark,female,north,summer,party,kurti
+60,medium,female,west,summer,wedding,saree
+26,fair,female,west,winter,casual,jeans
+39,medium,female,west,summer,wedding,saree
+20,dark,male,west,monsoon,wedding,blazer
+42,medium,female,west,spring,casual,jeans
+22,medium,male,west,summer,formal,formal shirt
+22,dark,female,west,winter,formal,blazer
+51,dark,male,west,monsoon,formal,formal shirt
+35,dark,male,north,summer,wedding,blazer
+59,fair,female,north,winter,formal,blazer
+26,medium,female,south,winter,casual,kurti
+45,medium,female,north,spring,party,dress
+50,dark,male,west,summer,formal,formal shirt
+41,fair,male,south,winter,casual,jeans
+49,fair,male,west,spring,formal,formal shirt
+30,fair,male,south,monsoon,wedding,blazer
+17,fair,female,west,summer,wedding,saree
+24,fair,female,north,summer,casual,jeans
+26,dark,male,south,spring,formal,formal shirt
+44,dark,male,west,monsoon,formal,formal shirt
+45,medium,male,south,monsoon,party,hoodie
+50,dark,male,west,summer,casual,jeans
+42,medium,female,west,monsoon,casual,kurti
+19,dark,female,north,spring,casual,kurti
+60,dark,male,south,winter,formal,formal shirt
+44,dark,male,east,spring,casual,casual t-shirt
+47,medium,female,north,summer,formal,blazer
+33,fair,male,south,winter,casual,casual t-shirt
+42,fair,female,south,monsoon,wedding,saree
+15,medium,male,east,monsoon,formal,formal shirt
+21,dark,female,east,summer,formal,blazer
+34,dark,female,west,summer,wedding,saree
+16,fair,female,east,monsoon,party,dress
+43,medium,female,east,monsoon,casual,kurti
+33,medium,female,west,monsoon,formal,blazer
+46,fair,male,north,monsoon,casual,jeans
+39,dark,male,east,winter,wedding,blazer
+54,dark,female,north,spring,formal,blazer
+40,medium,female,east,summer,formal,kurti
+17,medium,female,east,summer,party,dress
+22,fair,male,west,winter,casual,casual t-shirt
+33,dark,female,west,summer,formal,kurti
+20,medium,female,east,spring,formal,kurti
+41,dark,female,west,spring,casual,jeans
+24,fair,male,south,winter,wedding,blazer
+45,medium,female,north,winter,casual,kurti
+25,dark,male,west,spring,wedding,blazer
+36,dark,male,south,spring,casual,jeans
+48,dark,female,north,spring,party,kurti
+31,fair,male,east,monsoon,wedding,blazer
+27,medium,male,north,spring,wedding,blazer
+46,fair,male,north,spring,wedding,blazer
+32,fair,male,east,spring,casual,casual t-shirt
+40,fair,male,west,spring,casual,casual t-shirt
+21,dark,female,east,summer,casual,kurti
+50,fair,female,south,spring,formal,blazer
+60,medium,female,north,spring,formal,blazer
+58,medium,male,south,monsoon,formal,formal shirt
+45,dark,male,north,summer,party,jeans
+59,fair,female,south,spring,casual,kurti
+15,fair,female,south,summer,formal,kurti
+45,fair,male,north,summer,party,hoodie
+32,medium,female,west,summer,party,kurti
+31,medium,female,north,winter,casual,jeans
+45,fair,male,north,monsoon,casual,jeans
+50,dark,female,east,spring,casual,jeans
+27,medium,male,north,monsoon,formal,formal shirt
+35,dark,male,north,summer,wedding,blazer
+33,fair,female,east,winter,casual,kurti
+49,medium,female,east,summer,party,kurti
+34,fair,female,north,monsoon,party,dress
+24,dark,female,south,monsoon,wedding,saree
+39,dark,male,west,summer,party,hoodie
+52,fair,male,south,winter,party,jeans
+52,fair,male,north,summer,wedding,blazer
+19,dark,male,west,monsoon,formal,formal shirt
+27,fair,male,east,summer,party,hoodie
+32,dark,female,south,summer,party,dress
+59,medium,male,south,winter,casual,casual t-shirt
+18,dark,male,east,summer,casual,jeans
+43,fair,male,north,summer,wedding,blazer
+42,dark,male,west,spring,casual,casual t-shirt
+40,fair,male,north,winter,formal,formal shirt
+24,medium,female,west,spring,wedding,saree
+50,dark,male,south,summer,formal,formal shirt
+55,fair,male,east,monsoon,casual,casual t-shirt
+55,dark,male,west,summer,formal,formal shirt
+22,medium,female,north,spring,party,kurti
+60,fair,female,north,summer,formal,blazer
+55,medium,male,east,monsoon,party,jeans
+55,fair,male,south,summer,party,jeans
+28,dark,female,north,winter,wedding,saree
+37,dark,female,west,monsoon,formal,kurti
+23,dark,female,east,summer,casual,jeans
+23,medium,female,south,spring,party,kurti
+50,medium,male,north,summer,formal,formal shirt
+45,dark,male,south,winter,casual,jeans
+34,dark,male,west,summer,formal,formal shirt
+54,medium,male,east,winter,casual,casual t-shirt
+38,dark,male,south,monsoon,formal,formal shirt
+25,medium,male,south,monsoon,formal,formal shirt
+50,medium,female,north,winter,wedding,saree
+24,dark,female,east,summer,formal,kurti
+43,medium,female,east,summer,wedding,saree
+40,fair,female,south,monsoon,formal,kurti
+16,medium,male,south,winter,formal,formal shirt
+20,medium,female,west,monsoon,wedding,saree
+23,fair,male,south,winter,formal,formal shirt
+30,medium,female,south,monsoon,wedding,saree
+28,medium,female,north,summer,party,kurti
+47,fair,female,east,summer,casual,jeans
+34,dark,male,west,summer,wedding,blazer
+29,fair,female,south,monsoon,party,dress
+21,fair,female,south,summer,wedding,saree
+15,fair,female,south,summer,formal,blazer
+32,dark,female,west,monsoon,casual,kurti
+49,dark,male,south,winter,wedding,blazer
+31,medium,male,west,winter,party,jeans
+58,fair,female,west,spring,formal,blazer
+34,medium,male,south,winter,party,jeans
+21,medium,female,north,winter,casual,kurti
+54,dark,male,north,summer,wedding,blazer
+54,dark,male,west,spring,formal,formal shirt
+29,fair,female,north,summer,wedding,saree
+24,fair,female,east,summer,party,dress
+45,fair,male,north,spring,formal,formal shirt
+27,dark,female,south,spring,wedding,saree
+32,dark,female,east,summer,formal,kurti
+15,dark,male,south,monsoon,party,jeans
+44,medium,male,east,spring,formal,formal shirt
+32,dark,female,east,winter,wedding,saree
+33,medium,male,east,winter,casual,casual t-shirt
+25,fair,male,north,summer,party,hoodie
+51,medium,male,north,summer,formal,formal shirt
+17,dark,male,north,monsoon,wedding,blazer
+39,medium,female,east,spring,formal,blazer
+19,dark,male,west,spring,formal,formal shirt
+18,dark,female,west,summer,formal,kurti
+50,medium,female,west,summer,party,kurti
+27,dark,female,south,monsoon,party,dress
+28,fair,male,east,monsoon,formal,formal shirt
+15,medium,female,north,spring,formal,kurti
+54,dark,female,north,monsoon,party,kurti
+21,dark,male,north,monsoon,formal,formal shirt
+39,fair,female,west,winter,party,kurti
+54,dark,male,south,winter,casual,jeans
+32,medium,male,north,spring,party,hoodie
+36,medium,male,north,winter,wedding,blazer
+21,dark,male,north,monsoon,casual,jeans
+48,fair,male,south,summer,party,hoodie
+16,fair,male,south,monsoon,formal,formal shirt
+33,dark,female,east,winter,formal,blazer
+44,fair,male,north,summer,wedding,blazer
+23,medium,female,west,summer,casual,kurti
+25,dark,female,east,monsoon,casual,kurti
+52,medium,female,east,summer,party,kurti
+34,medium,male,east,spring,casual,casual t-shirt
+37,dark,male,west,winter,formal,formal shirt
+47,fair,male,west,monsoon,party,hoodie
+30,dark,male,north,winter,formal,formal shirt
+40,fair,female,south,spring,formal,blazer
+18,medium,male,south,monsoon,casual,jeans
+55,fair,female,south,monsoon,casual,jeans
+25,medium,male,east,monsoon,wedding,blazer
+38,dark,female,north,spring,formal,kurti
+16,dark,female,south,monsoon,party,dress
+36,dark,female,east,spring,formal,blazer
+34,medium,male,east,winter,formal,formal shirt
+21,dark,female,west,spring,wedding,saree
+21,dark,male,north,summer,formal,formal shirt
+17,fair,male,south,spring,wedding,blazer
+32,dark,male,east,winter,wedding,blazer
+33,fair,male,north,winter,party,hoodie
+60,dark,male,south,monsoon,party,jeans
+26,dark,female,south,winter,casual,jeans
+38,medium,male,north,monsoon,casual,jeans
+56,medium,female,east,summer,party,kurti
+36,medium,male,south,summer,casual,casual t-shirt
+42,medium,male,south,winter,wedding,blazer
+19,medium,male,west,spring,casual,casual t-shirt
+18,fair,female,north,monsoon,party,kurti
+41,fair,male,west,summer,formal,formal shirt
+36,medium,female,west,winter,party,dress
+60,dark,female,east,winter,wedding,saree
+15,dark,male,south,spring,wedding,blazer
+37,dark,male,east,monsoon,party,jeans
+29,fair,male,north,winter,party,hoodie
+24,dark,male,east,winter,party,hoodie
+56,dark,female,south,winter,party,kurti
+42,dark,male,north,spring,party,jeans
+51,dark,male,south,summer,party,jeans
+29,medium,male,east,winter,casual,casual t-shirt
+45,medium,male,south,spring,formal,formal shirt
+30,fair,female,south,summer,party,kurti
+29,dark,male,west,monsoon,party,jeans
+52,dark,female,north,monsoon,party,dress
+17,fair,female,north,monsoon,wedding,saree
+58,medium,male,east,winter,wedding,blazer
+45,medium,male,east,summer,wedding,blazer
+53,dark,female,east,monsoon,formal,kurti
+19,fair,female,west,summer,casual,jeans
+29,medium,male,east,summer,formal,formal shirt
+42,dark,female,east,spring,formal,kurti
+44,fair,female,west,spring,casual,kurti
+51,dark,male,north,winter,casual,casual t-shirt
+24,dark,female,north,spring,formal,kurti
+43,fair,female,south,monsoon,formal,blazer
+28,medium,male,east,spring,wedding,blazer
+59,fair,male,west,winter,wedding,blazer
+34,fair,male,south,winter,party,hoodie
+25,fair,female,west,winter,casual,kurti
+20,fair,male,west,summer,casual,jeans
+58,fair,male,east,spring,party,jeans
+23,fair,male,east,spring,formal,formal shirt
+46,fair,male,north,summer,casual,casual t-shirt
+16,medium,male,west,monsoon,formal,formal shirt
+29,dark,male,south,summer,casual,casual t-shirt
+35,fair,female,east,summer,wedding,saree
+15,fair,male,south,summer,formal,formal shirt
+52,medium,female,west,winter,casual,jeans
+33,dark,female,south,spring,party,dress
+35,medium,female,west,monsoon,party,kurti
+15,dark,female,west,spring,party,dress
+58,fair,male,south,spring,formal,formal shirt
+46,dark,female,east,spring,wedding,saree
+26,fair,male,west,monsoon,wedding,blazer
+50,fair,female,west,winter,party,kurti
+37,medium,male,south,spring,formal,formal shirt
+20,medium,female,east,winter,party,dress
+28,dark,male,east,winter,party,jeans
+55,medium,female,west,winter,wedding,saree
+27,fair,male,south,winter,casual,jeans
+27,medium,male,south,monsoon,casual,casual t-shirt
+37,fair,male,west,spring,wedding,blazer
+15,dark,female,north,spring,casual,kurti
+33,medium,female,south,winter,casual,jeans
+18,fair,female,south,summer,casual,kurti
+22,medium,male,south,spring,formal,formal shirt
+17,medium,female,south,monsoon,casual,jeans
+33,dark,female,east,monsoon,casual,kurti
+37,fair,male,west,winter,party,jeans
+31,fair,male,west,winter,formal,formal shirt
+48,medium,female,east,summer,party,kurti
+33,dark,female,north,winter,casual,jeans
+60,medium,female,west,summer,party,kurti
+25,fair,male,west,winter,party,hoodie
+33,dark,female,west,summer,party,kurti
+46,medium,male,west,winter,casual,casual t-shirt
+44,dark,female,south,spring,formal,kurti
+27,fair,male,east,monsoon,party,hoodie
+26,medium,male,north,winter,party,jeans
+58,medium,male,north,winter,casual,jeans
+35,fair,female,west,monsoon,party,dress
+47,dark,male,north,monsoon,party,jeans
+56,medium,male,north,winter,casual,jeans
+16,medium,female,west,monsoon,formal,kurti
+50,dark,male,east,spring,wedding,blazer
+24,medium,female,south,winter,formal,blazer
+58,medium,female,south,winter,casual,jeans
+23,medium,male,east,spring,casual,casual t-shirt
+56,dark,female,west,spring,party,kurti
+25,medium,male,south,spring,party,hoodie
+26,medium,male,south,winter,wedding,blazer
+35,medium,male,north,summer,wedding,blazer
+58,dark,male,south,winter,casual,casual t-shirt
+28,dark,female,south,monsoon,casual,kurti
+27,medium,male,west,spring,wedding,blazer
+33,dark,male,west,monsoon,party,hoodie
+37,fair,female,north,spring,wedding,saree
+26,dark,female,south,monsoon,formal,kurti
+47,dark,male,west,winter,casual,casual t-shirt
+34,fair,male,east,summer,formal,formal shirt
+31,dark,male,east,monsoon,wedding,blazer
+49,fair,male,east,winter,party,hoodie
+34,dark,female,east,spring,casual,jeans
+51,dark,female,south,winter,party,dress
+23,dark,male,north,summer,casual,casual t-shirt
+37,fair,female,east,monsoon,party,kurti
+45,dark,male,north,summer,party,jeans
+53,dark,male,north,summer,casual,casual t-shirt
+46,dark,male,west,spring,party,hoodie
+36,fair,female,south,monsoon,wedding,saree
+16,fair,male,south,monsoon,party,jeans
+19,medium,male,north,summer,casual,casual t-shirt
+58,medium,female,east,monsoon,party,kurti
+21,fair,female,north,winter,party,kurti
+52,fair,male,west,winter,formal,formal shirt
+54,medium,male,west,winter,formal,formal shirt
+22,dark,male,east,winter,casual,casual t-shirt
+53,medium,male,south,spring,casual,jeans
+17,fair,female,east,spring,casual,jeans
+15,fair,female,south,monsoon,formal,blazer
+21,dark,male,north,summer,party,hoodie
+46,fair,female,south,summer,casual,jeans
+41,medium,male,north,monsoon,party,hoodie
+46,fair,male,south,summer,wedding,blazer
+49,medium,male,east,summer,wedding,blazer
+17,fair,female,north,summer,wedding,saree
+56,fair,male,west,winter,formal,formal shirt
+15,dark,female,south,winter,party,dress
+57,dark,male,south,spring,formal,formal shirt
+42,medium,female,south,monsoon,party,kurti
+21,fair,male,west,winter,casual,jeans
+44,fair,female,west,monsoon,party,kurti
+38,medium,male,south,winter,formal,formal shirt
+58,dark,male,west,monsoon,party,hoodie
+26,fair,male,east,summer,party,hoodie
+46,fair,female,south,spring,wedding,saree
+59,medium,male,north,summer,formal,formal shirt
+15,fair,female,south,winter,formal,blazer
+39,dark,female,east,winter,party,kurti
+27,fair,female,north,monsoon,wedding,saree
+24,fair,female,north,monsoon,party,dress
+25,dark,male,west,monsoon,formal,formal shirt
+20,medium,male,west,winter,wedding,blazer
+27,fair,male,east,monsoon,casual,casual t-shirt
+18,fair,female,west,monsoon,casual,kurti
+20,fair,male,south,winter,party,hoodie
+50,dark,female,south,summer,formal,blazer
+28,dark,male,south,spring,party,hoodie
+23,fair,male,east,summer,party,jeans
+23,fair,male,north,spring,casual,jeans
+48,medium,male,east,spring,casual,jeans
+55,medium,male,north,spring,party,jeans
+57,fair,male,north,monsoon,formal,formal shirt
+47,dark,male,north,summer,wedding,blazer
+38,dark,female,east,spring,wedding,saree
+49,dark,male,south,summer,casual,jeans
+45,fair,male,south,spring,casual,casual t-shirt
+45,medium,female,west,winter,party,kurti
+34,fair,female,east,summer,wedding,saree
+47,dark,male,south,monsoon,wedding,blazer
+25,dark,female,north,winter,wedding,saree
+28,fair,male,east,summer,wedding,blazer
+60,dark,female,west,monsoon,party,kurti
+28,medium,male,east,monsoon,party,hoodie
+55,fair,female,east,spring,casual,kurti
+53,fair,male,west,summer,party,jeans
+54,dark,male,south,monsoon,wedding,blazer
+43,medium,male,south,spring,casual,jeans
+25,fair,male,south,summer,formal,formal shirt
+29,dark,female,north,monsoon,party,dress
+30,fair,male,west,monsoon,party,jeans
+37,fair,male,south,summer,formal,formal shirt
+53,medium,male,north,monsoon,formal,formal shirt
+36,dark,male,south,spring,casual,jeans
+19,medium,male,north,spring,wedding,blazer
+34,medium,male,west,summer,party,hoodie
+15,medium,male,west,summer,wedding,blazer
+42,dark,female,north,winter,wedding,saree
+42,medium,female,south,summer,casual,kurti
+29,medium,male,east,summer,casual,jeans
+41,medium,female,west,monsoon,wedding,saree
+43,medium,female,east,summer,wedding,saree
+20,medium,female,south,spring,party,dress
+31,medium,female,north,monsoon,wedding,saree
+57,fair,male,north,summer,wedding,blazer
+26,medium,male,east,winter,party,hoodie
+58,fair,male,south,monsoon,wedding,blazer
+18,medium,female,west,monsoon,party,kurti
+31,dark,female,west,monsoon,wedding,saree
+25,fair,female,north,summer,formal,blazer
+29,fair,male,east,spring,formal,formal shirt
+45,dark,male,east,winter,casual,jeans
+23,fair,male,north,monsoon,casual,casual t-shirt
+41,medium,female,west,spring,wedding,saree
+28,medium,male,east,spring,wedding,blazer
+53,dark,male,south,monsoon,casual,jeans
+44,fair,male,west,monsoon,party,hoodie
+52,medium,female,east,spring,casual,jeans
+24,fair,female,north,winter,casual,kurti
+43,medium,male,north,summer,casual,casual t-shirt
+38,medium,female,east,spring,wedding,saree
+49,medium,female,east,winter,party,kurti
+18,medium,female,south,spring,party,dress
+58,fair,male,north,summer,casual,jeans
+58,fair,male,east,summer,wedding,blazer
+33,medium,female,south,spring,formal,kurti
+24,fair,female,north,summer,casual,kurti
+31,medium,male,north,spring,party,hoodie
+53,dark,male,north,spring,casual,casual t-shirt
+21,medium,female,north,spring,wedding,saree
+37,dark,female,south,summer,party,dress
+39,fair,male,south,winter,party,jeans
+56,fair,female,east,spring,casual,kurti
+38,dark,female,north,monsoon,formal,blazer
+44,dark,female,west,spring,casual,jeans
+23,dark,female,north,monsoon,party,kurti
+48,medium,male,west,monsoon,party,jeans
+56,medium,female,west,monsoon,party,kurti
+45,medium,female,north,summer,wedding,saree
+34,fair,female,east,summer,casual,kurti
+38,medium,male,south,summer,party,jeans
+25,fair,male,east,spring,casual,casual t-shirt
+50,dark,male,south,summer,party,jeans
+36,medium,male,east,summer,party,hoodie
+50,fair,female,north,monsoon,casual,jeans
+54,dark,female,east,winter,wedding,saree
+59,medium,female,east,monsoon,casual,kurti
+26,fair,female,north,spring,formal,kurti
+41,dark,female,west,winter,formal,blazer
+34,dark,female,north,monsoon,party,kurti
+48,dark,male,south,summer,formal,formal shirt
+57,dark,male,south,summer,party,jeans
+53,dark,female,west,spring,casual,kurti
+31,dark,male,north,monsoon,casual,casual t-shirt
+36,dark,female,west,monsoon,party,kurti
+15,fair,male,west,monsoon,formal,formal shirt
+37,dark,male,east,summer,casual,jeans
+36,medium,male,north,spring,formal,formal shirt
+51,dark,male,north,summer,party,hoodie
+32,medium,female,south,spring,formal,kurti
+19,dark,female,west,monsoon,formal,kurti
+26,fair,female,west,monsoon,wedding,saree
+28,fair,female,west,monsoon,party,kurti
+40,fair,male,east,monsoon,wedding,blazer
+43,dark,female,south,summer,party,kurti
+46,dark,female,north,summer,wedding,saree
+38,fair,male,north,monsoon,party,jeans
+34,fair,male,east,winter,wedding,blazer
+20,dark,female,north,spring,party,kurti
+53,medium,female,west,winter,casual,jeans
+42,medium,female,north,summer,casual,kurti
+50,fair,female,west,spring,casual,jeans
+18,dark,female,east,monsoon,casual,kurti
+17,dark,male,west,winter,formal,formal shirt
+31,fair,male,north,spring,casual,jeans
+27,dark,male,south,summer,wedding,blazer
+36,medium,male,east,summer,party,jeans
+26,medium,male,east,summer,party,jeans
+57,medium,male,north,winter,party,jeans
+43,medium,female,south,spring,casual,kurti
+27,fair,male,west,summer,party,jeans
+15,fair,male,south,monsoon,formal,formal shirt
+24,fair,female,west,winter,party,dress
+58,dark,female,west,monsoon,casual,jeans
+26,medium,male,east,summer,formal,formal shirt
+49,fair,male,south,spring,wedding,blazer
+33,medium,male,north,spring,wedding,blazer
+44,medium,male,south,monsoon,casual,jeans
+37,medium,male,east,summer,wedding,blazer
+38,fair,male,south,spring,casual,jeans
+20,fair,female,east,winter,wedding,saree
+43,medium,male,east,spring,wedding,blazer
+42,dark,male,north,monsoon,party,hoodie
+50,medium,male,south,spring,wedding,blazer
+34,dark,female,east,winter,casual,kurti
+44,dark,female,north,summer,party,dress
+57,fair,female,north,summer,formal,blazer
+27,dark,female,east,winter,party,dress
+27,dark,male,east,monsoon,casual,jeans
+52,dark,male,east,summer,casual,jeans
+38,medium,female,north,winter,casual,kurti
+45,fair,female,north,summer,wedding,saree
+40,fair,female,north,monsoon,party,dress
+48,dark,male,west,summer,party,jeans
+26,medium,male,west,summer,formal,formal shirt
+25,dark,female,east,monsoon,wedding,saree
+33,fair,female,west,spring,party,dress
+39,dark,female,north,summer,party,dress
+31,fair,male,south,summer,casual,jeans
+28,fair,female,west,summer,formal,kurti
+53,fair,male,west,monsoon,party,hoodie
+41,fair,male,south,summer,formal,formal shirt
+22,dark,female,north,spring,casual,jeans
+55,fair,female,north,summer,formal,kurti
+18,medium,female,south,summer,wedding,saree
+31,fair,male,west,monsoon,wedding,blazer
+43,fair,male,south,spring,wedding,blazer
+44,medium,female,west,winter,wedding,saree
+54,medium,male,north,summer,wedding,blazer
+47,medium,female,west,winter,casual,kurti
+31,fair,female,north,winter,wedding,saree
+49,fair,female,west,winter,formal,blazer
+52,medium,female,west,summer,formal,kurti
+45,dark,male,east,winter,formal,formal shirt
+20,medium,male,south,monsoon,formal,formal shirt
+24,medium,male,west,winter,party,hoodie
+56,fair,female,south,winter,party,kurti
+36,medium,male,east,spring,wedding,blazer
+19,medium,male,south,summer,party,hoodie
+28,medium,male,north,summer,party,jeans
+24,fair,male,south,winter,wedding,blazer
+45,medium,male,south,monsoon,wedding,blazer
+26,fair,male,south,spring,casual,jeans
+16,medium,female,east,monsoon,party,kurti
+48,dark,male,south,spring,formal,formal shirt
+30,medium,female,east,spring,party,dress
+36,dark,male,east,summer,wedding,blazer
+33,fair,female,east,monsoon,formal,blazer
+19,fair,male,west,summer,party,jeans
+46,dark,male,north,monsoon,party,jeans
+39,medium,male,east,spring,formal,formal shirt
+39,dark,female,west,spring,casual,jeans
+31,medium,male,west,summer,party,hoodie
+22,fair,male,west,monsoon,casual,casual t-shirt
+23,dark,female,west,winter,casual,jeans
+24,medium,female,west,monsoon,formal,blazer
+20,dark,male,east,monsoon,wedding,blazer
+35,fair,male,south,spring,party,hoodie
+37,medium,female,north,spring,wedding,saree
+47,fair,male,north,summer,casual,casual t-shirt
+41,dark,male,west,monsoon,party,hoodie
+19,medium,female,east,winter,wedding,saree
+37,fair,male,north,monsoon,party,jeans
+30,fair,male,east,monsoon,casual,casual t-shirt
+33,medium,male,east,spring,casual,jeans
+37,fair,female,south,summer,casual,jeans
+49,medium,male,west,summer,formal,formal shirt
+41,dark,male,north,summer,wedding,blazer
+37,medium,female,south,summer,casual,jeans
+48,medium,female,north,summer,wedding,saree
+44,medium,female,east,monsoon,party,dress
+21,fair,male,west,winter,casual,casual t-shirt
+27,dark,male,south,spring,casual,casual t-shirt
+28,dark,male,east,spring,formal,formal shirt
+43,fair,male,north,monsoon,party,hoodie
+55,fair,male,north,summer,party,jeans
+29,fair,female,west,spring,party,dress
+21,medium,male,west,monsoon,party,jeans
+39,fair,male,west,summer,party,jeans
+42,medium,male,east,monsoon,party,hoodie
+28,fair,female,east,spring,wedding,saree
+17,fair,male,north,summer,formal,formal shirt
+38,dark,male,south,summer,formal,formal shirt
+27,medium,female,east,summer,casual,kurti
+54,fair,male,east,summer,party,hoodie
+36,fair,male,north,summer,party,jeans
+57,dark,female,south,winter,party,dress
+47,dark,male,south,monsoon,party,hoodie
+46,dark,female,south,summer,party,kurti
+48,medium,male,east,summer,casual,jeans
+35,fair,male,west,summer,wedding,blazer
+44,dark,female,south,summer,party,dress
+21,dark,male,south,monsoon,party,hoodie
+46,dark,female,south,summer,casual,kurti
+44,fair,female,north,summer,formal,blazer
+23,medium,male,south,winter,wedding,blazer
+34,fair,male,south,spring,formal,formal shirt
+37,fair,female,east,spring,party,dress
+51,fair,male,north,monsoon,wedding,blazer
+22,medium,female,north,spring,wedding,saree
+26,fair,female,east,winter,wedding,saree
+36,fair,female,north,summer,formal,kurti
+57,dark,male,south,summer,formal,formal shirt
+35,medium,female,south,winter,casual,kurti
+38,medium,female,west,monsoon,formal,blazer
+25,medium,male,east,summer,casual,jeans
+40,medium,male,north,monsoon,casual,jeans
+26,dark,male,east,summer,party,jeans
+60,medium,female,west,monsoon,formal,blazer
+37,medium,male,north,spring,formal,formal shirt
+59,fair,female,north,summer,casual,jeans
+56,medium,female,south,summer,formal,blazer
+18,dark,female,west,spring,casual,kurti
+25,fair,female,west,summer,wedding,saree
+17,fair,female,south,winter,party,dress
+28,dark,female,east,summer,party,dress
+19,dark,male,north,summer,casual,casual t-shirt
+24,dark,female,south,winter,formal,kurti
+22,dark,male,north,summer,casual,jeans
+42,medium,female,north,summer,party,kurti
+52,dark,female,west,summer,casual,jeans
+59,dark,male,east,summer,wedding,blazer
+40,fair,male,south,winter,casual,jeans
+47,dark,male,south,winter,wedding,blazer
+25,dark,male,south,spring,casual,jeans
+54,medium,female,north,winter,wedding,saree
+49,dark,male,west,monsoon,party,hoodie
+60,dark,male,north,spring,wedding,blazer
+24,medium,male,west,monsoon,formal,formal shirt
+32,dark,male,north,summer,party,hoodie
+38,medium,female,north,monsoon,formal,kurti
+50,medium,male,south,monsoon,party,jeans
+40,dark,male,north,winter,formal,formal shirt
+46,medium,female,west,winter,formal,blazer
+16,dark,female,west,spring,party,kurti
+45,fair,female,east,spring,wedding,saree
+34,medium,male,west,summer,casual,casual t-shirt
+57,dark,male,south,summer,party,jeans
+57,medium,male,east,summer,wedding,blazer
+44,medium,female,east,spring,party,kurti
+43,medium,male,west,winter,formal,formal shirt
+60,fair,female,north,summer,wedding,saree
+43,medium,female,east,spring,wedding,saree
+52,dark,male,north,spring,casual,jeans
+21,medium,female,west,spring,casual,jeans
+60,fair,female,south,summer,party,dress
+44,fair,female,west,summer,casual,kurti
+51,fair,female,east,spring,wedding,saree
+45,medium,female,north,winter,party,dress
+36,medium,female,west,winter,wedding,saree
+37,medium,female,north,spring,party,kurti
+30,medium,male,west,spring,formal,formal shirt
+38,fair,male,east,monsoon,party,hoodie
+27,medium,female,east,winter,wedding,saree
+48,medium,female,east,summer,formal,kurti
+44,medium,female,south,spring,wedding,saree
+57,fair,female,east,winter,casual,kurti
+49,fair,male,north,spring,wedding,blazer
+40,medium,female,south,monsoon,party,dress
+52,dark,male,west,spring,party,hoodie
+24,fair,female,south,monsoon,wedding,saree
+38,medium,male,east,winter,casual,casual t-shirt
+46,fair,male,south,winter,casual,jeans
+17,medium,female,east,spring,party,kurti
+44,dark,male,south,summer,party,hoodie
+39,medium,male,south,monsoon,formal,formal shirt
+40,fair,male,west,winter,party,jeans
+46,dark,female,east,summer,formal,blazer
+20,fair,female,east,spring,casual,jeans
+50,dark,female,south,spring,wedding,saree
+46,dark,male,east,winter,casual,jeans
+38,fair,female,north,monsoon,casual,kurti
+43,medium,female,east,summer,wedding,saree
+31,dark,male,south,winter,casual,jeans
+59,dark,male,east,spring,wedding,blazer
+41,fair,male,east,summer,party,hoodie
+52,fair,female,south,summer,casual,jeans
+59,medium,male,south,summer,party,hoodie
+53,medium,female,south,winter,party,dress
+47,dark,male,east,spring,wedding,blazer
+27,medium,female,south,monsoon,formal,kurti
+34,dark,male,south,winter,party,jeans
+45,dark,male,west,winter,formal,formal shirt
+22,dark,male,west,spring,party,jeans
+59,medium,male,north,monsoon,formal,formal shirt
+53,fair,male,east,summer,formal,formal shirt
+21,fair,female,east,summer,party,kurti
+42,medium,male,south,summer,party,jeans
+51,medium,male,east,spring,formal,formal shirt
+39,fair,female,south,monsoon,casual,kurti
+24,medium,female,west,monsoon,formal,blazer
+45,dark,male,south,monsoon,wedding,blazer
+43,medium,male,south,spring,party,hoodie
+55,dark,male,west,summer,party,hoodie
+45,dark,male,south,winter,formal,formal shirt
+36,medium,female,east,winter,casual,jeans
+50,medium,male,east,summer,party,hoodie
+32,dark,female,east,spring,casual,kurti
+55,dark,female,south,winter,formal,blazer
+22,fair,female,north,winter,party,kurti
+23,medium,male,south,spring,formal,formal shirt
+27,medium,male,north,spring,party,hoodie
+58,medium,female,west,spring,party,dress
+33,medium,female,north,summer,wedding,saree
+53,dark,male,east,winter,formal,formal shirt
+52,medium,male,north,spring,wedding,blazer
+49,fair,female,north,monsoon,wedding,saree
+20,fair,female,west,winter,wedding,saree
+54,medium,male,south,summer,wedding,blazer
+32,medium,male,south,winter,casual,jeans
+31,fair,male,east,summer,wedding,blazer
+22,dark,male,south,winter,party,jeans
+34,fair,male,south,winter,casual,casual t-shirt
+29,medium,male,north,summer,casual,casual t-shirt
+39,dark,female,south,spring,party,kurti
+41,medium,female,west,winter,formal,kurti
+51,medium,male,east,winter,wedding,blazer
+42,dark,male,north,summer,party,hoodie
+16,dark,female,south,summer,wedding,saree
+35,dark,female,north,winter,wedding,saree
+50,medium,female,north,spring,wedding,saree
+46,fair,male,west,spring,casual,jeans
+31,medium,male,north,spring,casual,casual t-shirt
+30,fair,male,west,spring,casual,casual t-shirt
+54,fair,female,west,monsoon,formal,blazer
+45,medium,female,south,summer,casual,jeans
+50,dark,female,east,monsoon,party,dress
+27,fair,male,west,spring,formal,formal shirt
+30,fair,male,north,summer,wedding,blazer
+22,medium,male,east,summer,wedding,blazer
+48,fair,female,north,summer,wedding,saree
+60,medium,female,west,summer,party,kurti
+31,medium,female,north,monsoon,formal,kurti
+20,medium,female,east,summer,wedding,saree
+23,dark,female,north,monsoon,party,dress
+51,fair,male,west,spring,casual,jeans
+32,fair,male,west,winter,formal,formal shirt
+56,medium,female,south,summer,party,dress
+25,medium,male,south,winter,casual,jeans
+38,dark,male,west,monsoon,party,jeans
+23,dark,male,east,spring,party,hoodie
+15,dark,male,east,winter,wedding,blazer
+15,medium,male,north,winter,wedding,blazer
+37,fair,female,south,monsoon,party,dress
+28,fair,male,south,spring,party,jeans
+42,fair,male,south,spring,party,hoodie
+53,fair,female,south,monsoon,party,kurti
+35,fair,female,north,spring,wedding,saree
+29,medium,female,north,winter,formal,kurti
+51,medium,female,north,winter,casual,jeans
+49,fair,male,west,winter,casual,jeans
+16,medium,female,east,summer,party,kurti
+40,fair,female,north,monsoon,formal,blazer
+46,dark,female,east,monsoon,formal,kurti
+31,medium,female,north,summer,wedding,saree
+44,fair,male,east,winter,wedding,blazer
+26,fair,female,west,summer,formal,blazer
+59,dark,male,east,winter,party,jeans
+35,dark,female,south,winter,party,kurti
+32,medium,male,south,spring,wedding,blazer
+43,medium,male,west,monsoon,formal,formal shirt
+44,medium,male,south,spring,wedding,blazer
+37,fair,male,east,monsoon,casual,casual t-shirt
+41,fair,male,east,spring,party,jeans
+40,medium,male,north,winter,formal,formal shirt
+42,dark,female,east,winter,formal,kurti
+15,medium,female,north,monsoon,wedding,saree
+51,fair,female,south,spring,casual,kurti
+36,dark,male,east,spring,casual,jeans
+50,medium,female,west,spring,wedding,saree
+17,dark,female,north,winter,casual,kurti
+21,fair,female,east,monsoon,casual,jeans
+15,fair,male,south,monsoon,formal,formal shirt
+57,dark,male,east,spring,casual,casual t-shirt
+56,medium,female,north,spring,wedding,saree
+18,fair,male,west,summer,casual,casual t-shirt
+59,medium,female,south,summer,wedding,saree
+55,dark,male,west,spring,wedding,blazer
+41,fair,female,north,spring,formal,blazer
+57,dark,female,east,spring,wedding,saree
+16,dark,male,west,spring,casual,casual t-shirt
+17,fair,female,north,monsoon,wedding,saree
+29,dark,male,north,winter,casual,casual t-shirt
+57,medium,female,west,spring,formal,kurti
+54,fair,female,north,spring,formal,blazer
+30,fair,female,east,winter,party,dress
+54,dark,female,west,summer,wedding,saree
+52,fair,male,west,winter,formal,formal shirt
+30,medium,male,west,summer,formal,formal shirt
+21,medium,male,north,monsoon,wedding,blazer
+38,medium,male,west,monsoon,party,jeans
+31,medium,female,west,monsoon,wedding,saree
+32,fair,female,east,winter,party,dress
+49,fair,female,south,spring,wedding,saree
+45,medium,male,east,monsoon,casual,jeans
+23,fair,male,east,winter,casual,jeans
+34,dark,female,east,monsoon,party,kurti
+19,medium,female,east,spring,wedding,saree
+32,medium,male,north,spring,formal,formal shirt
+16,fair,female,north,monsoon,party,dress
+42,fair,male,south,spring,wedding,blazer
+49,dark,female,east,winter,casual,kurti
+25,fair,female,south,winter,formal,blazer
+46,dark,female,south,winter,casual,jeans
+43,medium,male,north,monsoon,formal,formal shirt
+42,dark,female,west,summer,formal,kurti
+57,dark,male,south,summer,casual,casual t-shirt
+21,medium,male,south,winter,wedding,blazer
+55,fair,female,east,summer,party,kurti
+44,medium,female,north,winter,wedding,saree
+51,medium,female,north,monsoon,wedding,saree
+23,dark,male,east,spring,casual,jeans
+40,medium,male,north,spring,formal,formal shirt
+38,fair,female,south,summer,wedding,saree
+32,medium,male,east,monsoon,formal,formal shirt
+40,medium,male,north,winter,party,hoodie
+26,fair,male,west,summer,party,jeans
+41,medium,female,east,winter,party,dress
+34,dark,male,east,monsoon,formal,formal shirt
+48,fair,male,west,summer,formal,formal shirt
+57,fair,female,east,winter,party,kurti
+25,dark,male,east,monsoon,party,hoodie
+50,fair,female,north,monsoon,wedding,saree
+51,medium,male,west,monsoon,casual,casual t-shirt
+53,fair,female,east,monsoon,party,dress
+22,medium,male,east,monsoon,formal,formal shirt
+40,dark,male,east,winter,wedding,blazer
+31,medium,male,north,spring,casual,casual t-shirt
+38,fair,female,west,winter,formal,kurti
+26,medium,male,east,summer,party,hoodie
+19,dark,female,south,spring,casual,kurti
+39,medium,male,east,summer,wedding,blazer
+21,dark,female,west,summer,party,kurti
+31,dark,female,south,summer,formal,kurti
+58,fair,female,south,monsoon,formal,kurti
+31,fair,male,north,winter,party,jeans
+38,dark,male,west,monsoon,formal,formal shirt
+54,dark,female,north,spring,wedding,saree
+55,fair,female,east,spring,casual,kurti
+25,medium,female,east,winter,formal,kurti
+53,dark,male,south,winter,casual,jeans
+16,fair,male,south,winter,party,hoodie
+15,dark,female,south,winter,wedding,saree
+47,medium,female,north,monsoon,wedding,saree
+24,medium,male,west,summer,casual,casual t-shirt
+27,fair,female,east,monsoon,casual,kurti
+52,dark,female,west,summer,party,kurti
+20,fair,female,north,spring,wedding,saree
+41,medium,male,west,spring,wedding,blazer
+48,dark,male,west,summer,formal,formal shirt
+28,fair,male,north,winter,wedding,blazer
+51,medium,female,west,spring,party,dress
+60,dark,male,west,winter,formal,formal shirt
+45,fair,female,south,monsoon,formal,blazer
+56,fair,male,south,summer,formal,formal shirt
+49,medium,male,east,spring,casual,casual t-shirt
+55,fair,female,west,monsoon,formal,kurti
+29,medium,male,east,monsoon,party,hoodie
+48,fair,male,north,monsoon,wedding,blazer
+25,dark,female,north,monsoon,casual,jeans
+49,fair,female,west,spring,casual,jeans
+59,medium,male,north,monsoon,wedding,blazer
+26,medium,male,west,spring,party,jeans
+43,fair,female,east,winter,party,dress
+29,fair,male,north,spring,formal,formal shirt
+53,dark,female,north,spring,formal,blazer
+48,fair,female,east,monsoon,wedding,saree
+35,fair,male,east,winter,party,jeans
+21,dark,female,west,spring,formal,blazer
+36,medium,male,west,monsoon,formal,formal shirt
+22,fair,female,east,winter,party,dress
+27,medium,female,west,winter,casual,jeans
+32,fair,male,south,monsoon,party,jeans
+16,dark,female,south,monsoon,formal,blazer
+57,medium,male,north,spring,party,jeans
+27,medium,female,south,monsoon,wedding,saree
+49,dark,male,south,monsoon,casual,jeans
+50,fair,female,east,summer,formal,kurti
+20,fair,male,west,summer,party,jeans
+17,medium,female,north,monsoon,casual,jeans
+41,medium,female,north,monsoon,party,dress
+43,dark,male,south,winter,formal,formal shirt
+46,fair,male,south,winter,party,jeans
+16,fair,male,north,monsoon,wedding,blazer
+28,fair,female,south,spring,casual,jeans
+58,medium,male,north,winter,party,hoodie
+50,fair,male,north,summer,formal,formal shirt
+60,fair,female,north,monsoon,casual,kurti
+43,dark,male,north,summer,casual,casual t-shirt
+29,fair,male,west,spring,formal,formal shirt
+38,medium,male,east,summer,formal,formal shirt
+51,dark,female,east,monsoon,party,dress
+23,medium,female,west,summer,party,kurti
+40,dark,female,east,spring,wedding,saree
+24,fair,female,south,monsoon,formal,kurti
+52,fair,female,west,winter,casual,jeans
+26,fair,female,north,monsoon,party,kurti
+25,fair,male,east,summer,wedding,blazer
+32,dark,male,north,monsoon,casual,casual t-shirt
+43,fair,male,south,spring,formal,formal shirt
+22,dark,female,east,monsoon,formal,kurti
+56,dark,male,east,winter,party,jeans
+19,dark,male,east,monsoon,wedding,blazer
+55,fair,male,south,spring,formal,formal shirt
+16,fair,male,east,summer,casual,casual t-shirt
+27,medium,female,south,spring,casual,jeans
+40,dark,male,south,summer,formal,formal shirt
+50,medium,male,west,monsoon,party,jeans
+20,dark,male,north,monsoon,party,hoodie
+33,fair,male,west,winter,casual,jeans
+32,fair,male,east,spring,formal,formal shirt
+35,dark,male,north,summer,party,hoodie
+29,medium,male,east,monsoon,casual,jeans
+53,fair,female,north,spring,formal,kurti
+17,medium,female,south,winter,wedding,saree
+38,fair,female,east,winter,party,kurti
+54,dark,male,east,summer,party,jeans
+42,fair,female,east,winter,casual,jeans
+39,fair,female,south,spring,party,kurti
+43,medium,male,west,winter,party,hoodie
+28,fair,male,north,spring,formal,formal shirt
+28,fair,male,east,summer,casual,casual t-shirt
+19,medium,female,south,summer,casual,kurti
+57,fair,female,north,spring,party,kurti
+43,medium,male,north,monsoon,party,hoodie
+45,fair,male,north,winter,casual,casual t-shirt
+53,dark,female,east,winter,party,kurti
+30,dark,female,north,winter,party,kurti
+43,dark,female,south,spring,wedding,saree
+56,dark,male,south,winter,casual,jeans
+29,medium,male,south,spring,formal,formal shirt
+53,fair,male,south,winter,casual,casual t-shirt
+44,fair,male,west,monsoon,formal,formal shirt
+28,dark,female,east,summer,wedding,saree
+20,fair,male,east,winter,party,jeans
+16,fair,female,east,spring,party,kurti
+48,medium,female,north,winter,wedding,saree
+22,medium,male,north,winter,wedding,blazer
+60,fair,male,south,winter,formal,formal shirt
+46,dark,female,north,monsoon,wedding,saree
+41,fair,male,south,winter,formal,formal shirt
+47,fair,female,north,summer,party,dress
+48,fair,male,east,winter,wedding,blazer
+47,medium,male,west,monsoon,party,hoodie
+44,fair,female,south,summer,party,dress
+46,medium,male,north,monsoon,formal,formal shirt
+24,fair,female,east,monsoon,wedding,saree
+38,medium,female,west,monsoon,formal,kurti
+40,medium,male,north,spring,wedding,blazer
+19,dark,female,west,spring,party,kurti
+23,medium,male,north,monsoon,casual,jeans
+40,medium,female,west,winter,formal,blazer
+31,fair,male,west,spring,party,hoodie
+46,dark,female,east,winter,party,kurti
+21,dark,male,north,monsoon,wedding,blazer
+59,fair,male,east,monsoon,casual,casual t-shirt
+15,dark,male,east,spring,wedding,blazer
+20,dark,female,south,spring,party,dress
+44,fair,female,east,winter,casual,kurti
+18,medium,female,south,winter,party,kurti
+36,medium,male,west,summer,party,jeans
+42,medium,male,south,winter,wedding,blazer
+52,medium,male,north,spring,formal,formal shirt
+47,fair,female,west,monsoon,wedding,saree
+49,fair,female,south,spring,wedding,saree
+59,medium,male,east,spring,party,jeans
+27,medium,male,east,monsoon,party,hoodie
+38,fair,male,east,summer,party,hoodie
+27,dark,female,north,summer,party,kurti
+18,fair,male,east,winter,wedding,blazer
+47,fair,male,south,monsoon,party,hoodie
+26,medium,female,east,spring,formal,kurti
+51,fair,male,west,summer,party,hoodie
+25,fair,female,north,summer,party,dress
+40,dark,male,south,summer,casual,casual t-shirt
+29,dark,male,north,spring,casual,casual t-shirt
+25,dark,female,south,spring,party,kurti
+44,medium,male,west,spring,party,jeans
+38,medium,female,east,spring,casual,kurti
+15,fair,female,east,spring,wedding,saree
+21,medium,male,north,summer,party,jeans
+48,medium,male,east,winter,casual,casual t-shirt
+18,dark,male,west,monsoon,wedding,blazer
+19,dark,male,south,winter,casual,jeans
+54,fair,female,east,summer,formal,blazer
+28,dark,male,south,spring,party,jeans
+41,medium,male,south,monsoon,wedding,blazer
+23,dark,male,east,summer,party,jeans
+22,dark,female,south,summer,casual,kurti
+31,medium,female,east,winter,formal,blazer
+33,dark,female,west,monsoon,party,kurti
+55,fair,male,north,winter,formal,formal shirt
+51,dark,female,south,summer,wedding,saree
+15,medium,female,east,monsoon,wedding,saree
+46,dark,female,east,winter,formal,kurti
+20,medium,female,east,spring,casual,jeans
+41,dark,female,north,spring,party,kurti
+26,fair,female,north,spring,wedding,saree
+15,fair,female,east,summer,formal,kurti
+42,dark,female,east,monsoon,formal,kurti
+45,fair,female,south,monsoon,wedding,saree
+35,medium,female,south,summer,casual,jeans
+30,fair,male,west,spring,casual,casual t-shirt
+23,dark,female,north,monsoon,formal,kurti
+25,dark,male,north,winter,casual,jeans
+34,dark,male,west,spring,formal,formal shirt
+36,dark,male,west,winter,party,jeans
+47,dark,female,north,winter,wedding,saree
+21,medium,female,south,summer,casual,kurti
+42,fair,female,west,summer,casual,jeans
+60,dark,female,north,monsoon,wedding,saree
+45,medium,female,west,spring,casual,jeans
+53,dark,male,north,monsoon,formal,formal shirt
+44,fair,female,west,monsoon,formal,kurti
+57,medium,male,west,monsoon,casual,jeans
+27,fair,male,west,winter,wedding,blazer
+58,medium,male,west,spring,formal,formal shirt
+19,fair,female,east,spring,casual,jeans
+55,fair,female,west,winter,wedding,saree
+48,dark,male,south,monsoon,wedding,blazer
+42,fair,male,east,monsoon,formal,formal shirt
+19,dark,female,south,spring,party,dress
+52,medium,female,north,summer,casual,kurti
+25,fair,male,south,winter,casual,jeans
+33,medium,male,north,summer,formal,formal shirt
+38,medium,male,north,summer,wedding,blazer
+22,dark,male,south,spring,party,jeans
+54,fair,female,west,winter,casual,kurti
+40,medium,female,south,winter,party,dress
+59,medium,male,west,winter,party,hoodie
+51,fair,female,south,spring,party,kurti
+35,medium,female,south,monsoon,casual,kurti
+38,medium,female,west,monsoon,casual,kurti
+27,medium,female,east,summer,wedding,saree
+18,fair,female,west,summer,formal,blazer
+16,medium,female,east,monsoon,party,kurti
+15,medium,female,west,summer,wedding,saree
+58,dark,female,south,summer,casual,jeans
+60,dark,female,east,summer,casual,jeans
+15,fair,female,north,spring,formal,blazer
+53,medium,female,west,spring,party,kurti
+51,dark,male,west,monsoon,party,jeans
+44,medium,female,west,summer,wedding,saree
+52,medium,female,south,monsoon,wedding,saree
+20,fair,female,west,spring,casual,kurti
+30,dark,female,east,winter,casual,kurti
+20,medium,male,south,summer,party,jeans
+49,fair,male,west,spring,casual,casual t-shirt
+36,medium,male,south,spring,casual,jeans
+54,medium,male,west,monsoon,casual,jeans
+55,dark,male,north,summer,casual,casual t-shirt
+36,medium,male,south,winter,casual,casual t-shirt
+58,fair,female,east,monsoon,casual,jeans
+19,dark,female,south,summer,party,dress
+43,medium,male,west,summer,casual,casual t-shirt
+43,medium,male,east,summer,formal,formal shirt
+38,medium,male,west,summer,party,hoodie
+23,dark,male,north,summer,party,hoodie
+28,fair,female,east,monsoon,wedding,saree
+17,medium,female,west,summer,party,kurti
+40,medium,female,west,winter,formal,kurti
+44,dark,female,west,spring,party,kurti
+55,medium,female,south,spring,casual,jeans
+28,medium,male,east,monsoon,formal,formal shirt
+48,fair,male,north,spring,wedding,blazer
+33,fair,female,west,spring,party,dress
+32,medium,female,west,summer,party,kurti
+45,fair,male,north,summer,casual,jeans
+28,dark,female,west,spring,wedding,saree
+26,dark,male,west,spring,formal,formal shirt
+52,fair,female,west,spring,formal,kurti
+45,medium,male,north,spring,casual,casual t-shirt
+23,fair,male,south,summer,casual,jeans
+46,fair,male,south,summer,party,hoodie
+29,fair,female,east,monsoon,formal,kurti
+36,medium,male,north,winter,casual,jeans
+41,dark,male,east,summer,formal,formal shirt
+51,medium,male,east,monsoon,formal,formal shirt
+20,fair,male,south,spring,wedding,blazer
+21,dark,male,south,winter,casual,casual t-shirt
+23,dark,male,west,summer,party,jeans
+40,medium,female,north,summer,wedding,saree
+29,medium,female,west,spring,wedding,saree
+27,dark,female,south,winter,party,kurti
+34,medium,female,north,winter,party,dress
+57,medium,male,east,spring,party,jeans
+49,dark,female,east,monsoon,formal,blazer
+43,fair,male,north,summer,party,hoodie
+22,medium,male,north,summer,casual,casual t-shirt
+34,fair,male,north,winter,formal,formal shirt
+29,fair,male,north,winter,party,hoodie
+57,dark,female,east,winter,wedding,saree
+25,fair,male,west,spring,party,jeans
+59,dark,female,south,winter,party,dress
+55,dark,female,north,monsoon,wedding,saree
+23,fair,female,south,spring,formal,blazer
+53,dark,female,south,summer,party,dress
+48,fair,female,north,winter,casual,kurti
+49,medium,male,east,winter,formal,formal shirt
+20,dark,female,west,monsoon,wedding,saree
+25,fair,female,south,winter,formal,kurti
+20,fair,female,north,monsoon,party,kurti
+33,dark,female,west,monsoon,casual,kurti
+54,fair,female,north,winter,party,dress
+60,dark,male,west,monsoon,party,hoodie
+28,dark,male,east,spring,formal,formal shirt
+22,medium,female,north,monsoon,formal,blazer
+49,dark,male,north,monsoon,wedding,blazer
+46,medium,female,west,spring,formal,blazer
+38,medium,female,west,monsoon,formal,kurti
+43,dark,female,south,monsoon,formal,blazer
+52,dark,female,north,monsoon,wedding,saree
+46,medium,female,west,winter,wedding,saree
+51,medium,female,east,spring,party,dress
+28,dark,female,south,summer,casual,jeans
+23,dark,female,west,summer,formal,kurti
+54,dark,male,south,monsoon,formal,formal shirt
+46,medium,male,north,monsoon,wedding,blazer
+46,fair,male,north,winter,casual,jeans
+30,fair,male,south,winter,party,hoodie
+24,medium,male,south,monsoon,wedding,blazer
+43,fair,female,north,winter,wedding,saree
+26,medium,female,east,winter,formal,blazer
+41,dark,male,north,monsoon,formal,formal shirt
+46,dark,female,east,winter,wedding,saree
+40,medium,female,east,spring,party,kurti
+18,dark,female,south,winter,casual,jeans
+31,fair,male,west,summer,formal,formal shirt
+45,fair,female,east,monsoon,wedding,saree
+16,medium,male,south,summer,wedding,blazer
+46,medium,female,south,winter,wedding,saree
+15,fair,male,west,winter,wedding,blazer
+37,dark,male,west,winter,formal,formal shirt
+16,fair,male,west,spring,party,jeans
+32,dark,female,east,monsoon,party,dress
+43,dark,female,east,monsoon,wedding,saree
+52,dark,male,south,spring,formal,formal shirt
+54,fair,male,east,monsoon,casual,jeans
+28,medium,female,west,summer,wedding,saree
+53,medium,female,west,summer,casual,jeans
+31,dark,female,south,summer,casual,jeans
+17,medium,male,west,summer,casual,casual t-shirt
+51,fair,male,north,monsoon,casual,casual t-shirt
+25,fair,male,north,winter,wedding,blazer
+17,fair,female,east,summer,party,kurti
+42,fair,male,north,winter,party,jeans
+26,fair,female,west,monsoon,formal,blazer
+22,dark,male,south,summer,formal,formal shirt
+48,dark,male,south,summer,wedding,blazer
+56,dark,male,east,summer,wedding,blazer
+31,medium,male,east,summer,formal,formal shirt
+56,dark,male,north,monsoon,wedding,blazer
+38,dark,male,west,winter,formal,formal shirt
+42,dark,male,north,monsoon,casual,casual t-shirt
+43,fair,male,north,spring,wedding,blazer
+16,fair,female,west,spring,formal,blazer
+47,dark,male,east,summer,casual,casual t-shirt
+35,fair,female,east,winter,party,dress
+38,medium,male,east,monsoon,casual,casual t-shirt
+41,dark,female,north,summer,formal,blazer
+26,fair,female,west,spring,casual,jeans
+46,fair,female,east,summer,formal,kurti
+21,dark,female,north,monsoon,wedding,saree
+46,fair,male,north,summer,party,jeans
+18,dark,female,east,monsoon,formal,kurti
+17,medium,female,east,summer,party,kurti
+39,fair,male,south,summer,formal,formal shirt
+34,medium,female,south,monsoon,wedding,saree
+35,medium,male,north,winter,casual,casual t-shirt
+39,fair,male,east,winter,formal,formal shirt
+17,medium,female,north,summer,formal,kurti
+28,fair,male,south,winter,party,jeans
+40,medium,male,north,monsoon,casual,jeans
+30,medium,male,south,monsoon,party,hoodie
+53,fair,female,south,summer,wedding,saree
+46,dark,male,south,monsoon,party,hoodie
+45,fair,male,north,summer,formal,formal shirt
+32,dark,male,east,winter,wedding,blazer
+26,medium,male,west,monsoon,casual,casual t-shirt
+16,fair,male,west,spring,wedding,blazer
+55,medium,female,south,monsoon,casual,jeans
+60,fair,male,south,summer,party,jeans
+34,fair,male,west,spring,casual,jeans
+56,fair,female,east,spring,wedding,saree
+25,fair,male,south,monsoon,formal,formal shirt
+48,medium,female,north,summer,party,dress
+55,medium,male,north,spring,formal,formal shirt
+47,dark,male,south,summer,formal,formal shirt
+57,fair,male,west,winter,formal,formal shirt
+36,dark,female,south,winter,party,dress
+40,medium,female,north,monsoon,wedding,saree
+24,fair,female,east,summer,party,kurti
+22,medium,male,west,monsoon,formal,formal shirt
+39,medium,male,south,monsoon,casual,jeans
+59,dark,female,south,spring,wedding,saree
+15,medium,female,south,monsoon,party,kurti
+55,medium,male,south,monsoon,wedding,blazer
+25,medium,female,east,monsoon,formal,blazer
+32,dark,male,west,winter,formal,formal shirt
+43,dark,male,west,summer,formal,formal shirt
+60,dark,male,west,winter,formal,formal shirt
+59,medium,male,south,monsoon,wedding,blazer
+24,medium,female,south,summer,party,kurti
+21,medium,male,north,spring,wedding,blazer
+31,dark,female,south,summer,formal,blazer
+36,dark,female,east,winter,casual,jeans
+45,dark,female,south,monsoon,formal,blazer
+55,medium,male,north,monsoon,party,jeans
+17,medium,female,north,monsoon,wedding,saree
+19,dark,male,north,spring,casual,casual t-shirt
+30,fair,male,north,monsoon,formal,formal shirt
+18,medium,male,south,monsoon,formal,formal shirt
+32,medium,male,south,spring,wedding,blazer
+56,medium,female,north,winter,formal,blazer
+22,fair,male,north,spring,formal,formal shirt
+58,fair,female,west,spring,party,dress
+50,medium,male,east,spring,wedding,blazer
+24,fair,male,north,monsoon,wedding,blazer
+25,medium,male,north,winter,casual,jeans
+21,medium,female,east,monsoon,party,kurti
+38,dark,female,north,summer,formal,kurti
+33,fair,female,south,spring,wedding,saree
+30,fair,male,east,summer,formal,formal shirt
+34,medium,female,west,spring,wedding,saree
+51,medium,male,north,monsoon,wedding,blazer
+53,fair,female,west,spring,casual,jeans
+53,fair,male,west,summer,casual,jeans
+48,medium,female,north,summer,formal,blazer
+58,fair,male,east,monsoon,party,hoodie
+21,fair,male,west,winter,wedding,blazer
+46,medium,male,north,winter,casual,casual t-shirt
+16,dark,male,south,spring,formal,formal shirt
+58,dark,male,east,monsoon,party,hoodie
+29,medium,male,north,summer,formal,formal shirt
+43,dark,male,east,spring,formal,formal shirt
+31,fair,male,north,spring,party,jeans
+15,fair,female,east,winter,party,kurti
+28,fair,female,west,winter,casual,kurti
+28,medium,female,north,summer,wedding,saree
+41,fair,female,north,winter,party,kurti
+23,dark,male,south,summer,party,jeans
+29,fair,female,north,summer,casual,kurti
+54,dark,female,east,winter,party,dress
+59,fair,female,south,summer,party,dress
+30,dark,male,north,monsoon,casual,casual t-shirt
+59,dark,male,east,winter,casual,casual t-shirt
+49,fair,female,west,spring,party,dress
+56,fair,female,south,monsoon,party,kurti
+15,fair,male,north,spring,casual,jeans
+44,dark,male,west,winter,casual,casual t-shirt
+22,fair,male,east,summer,wedding,blazer
+27,medium,male,east,summer,casual,casual t-shirt
+57,medium,female,south,summer,wedding,saree
+16,medium,female,east,spring,casual,jeans
+49,medium,female,east,spring,formal,kurti
+17,fair,male,east,summer,wedding,blazer
+57,dark,female,south,winter,casual,jeans
+30,fair,female,east,monsoon,casual,kurti
+23,medium,male,south,spring,wedding,blazer
+57,fair,male,south,spring,casual,jeans
+15,dark,male,south,monsoon,casual,casual t-shirt
+50,medium,male,south,monsoon,party,jeans
+35,medium,male,south,winter,party,jeans
+38,medium,female,south,spring,wedding,saree
+22,medium,male,south,summer,formal,formal shirt
+20,medium,female,south,winter,party,dress
+35,medium,female,east,summer,wedding,saree
+51,medium,female,east,summer,casual,jeans
+49,medium,male,west,spring,casual,casual t-shirt
+21,medium,male,west,summer,party,jeans
+27,fair,male,east,monsoon,wedding,blazer
+22,medium,female,north,monsoon,casual,jeans
+56,fair,female,south,summer,party,kurti
+56,fair,female,south,winter,party,dress
+41,fair,male,east,summer,formal,formal shirt
+27,medium,female,north,spring,party,dress
+43,fair,female,west,summer,party,dress
+29,dark,female,east,summer,casual,jeans
+17,dark,female,south,winter,formal,kurti
+53,fair,female,north,winter,wedding,saree
+27,medium,female,south,summer,formal,blazer
+41,medium,female,east,monsoon,wedding,saree
+41,fair,female,south,spring,formal,blazer
+18,dark,male,south,winter,casual,casual t-shirt
+50,medium,male,east,summer,wedding,blazer
+19,medium,female,south,summer,wedding,saree
+43,dark,male,east,summer,formal,formal shirt
+16,dark,female,east,spring,wedding,saree
+53,fair,male,south,spring,wedding,blazer
+47,dark,female,south,spring,formal,kurti
+41,fair,male,north,winter,casual,jeans
+46,fair,female,east,monsoon,formal,blazer
+26,medium,male,north,summer,wedding,blazer
+51,medium,female,north,spring,party,dress
+34,fair,female,east,winter,wedding,saree
+23,dark,male,west,monsoon,casual,jeans
+32,medium,male,south,monsoon,party,hoodie
+16,dark,male,south,winter,party,jeans
+51,fair,male,east,summer,casual,casual t-shirt
+48,fair,male,south,monsoon,wedding,blazer
+18,medium,female,west,monsoon,party,kurti
+18,medium,male,west,monsoon,formal,formal shirt
+59,dark,female,north,summer,formal,kurti
+25,fair,female,north,monsoon,party,kurti
+18,dark,female,south,monsoon,formal,kurti
+55,fair,male,north,spring,casual,casual t-shirt
+22,dark,male,east,monsoon,formal,formal shirt
+27,dark,female,south,spring,party,kurti
+54,medium,male,south,summer,party,hoodie
+56,dark,male,west,winter,party,hoodie
+48,medium,male,south,spring,wedding,blazer
+25,fair,female,south,spring,wedding,saree
+57,dark,female,west,monsoon,wedding,saree
+30,fair,female,west,summer,casual,jeans
+33,dark,female,north,monsoon,formal,blazer
+49,medium,female,west,winter,wedding,saree
+40,dark,female,north,monsoon,formal,kurti
+20,medium,female,east,summer,party,kurti
+34,dark,female,north,summer,wedding,saree
+53,dark,male,east,monsoon,formal,formal shirt
+26,dark,male,west,spring,casual,jeans
+27,medium,female,south,summer,party,kurti
+20,medium,female,east,summer,party,dress
+26,fair,female,west,spring,casual,jeans
+33,fair,male,west,winter,wedding,blazer
+17,dark,female,west,monsoon,formal,blazer
+15,dark,female,north,spring,formal,blazer
+56,medium,male,east,winter,party,jeans
+33,fair,male,west,winter,party,hoodie
+48,medium,female,east,winter,formal,blazer
+56,fair,male,east,winter,formal,formal shirt
+47,fair,female,west,spring,casual,kurti
+38,medium,male,east,winter,casual,jeans
+57,medium,male,north,spring,formal,formal shirt
+30,dark,male,west,spring,formal,formal shirt
+24,medium,female,south,winter,formal,blazer
+41,dark,male,south,winter,casual,casual t-shirt
+35,medium,female,north,winter,party,dress
+20,medium,female,west,monsoon,formal,blazer
+55,medium,male,south,summer,formal,formal shirt
+60,dark,male,east,summer,formal,formal shirt
+33,medium,male,south,monsoon,casual,jeans
+27,medium,male,west,winter,party,jeans
+40,medium,female,east,spring,wedding,saree
+34,fair,female,north,summer,wedding,saree
+53,medium,male,west,summer,casual,casual t-shirt
+16,medium,female,east,spring,formal,kurti
+49,dark,female,east,winter,casual,kurti
+41,dark,female,north,monsoon,formal,kurti
+38,fair,male,south,winter,party,jeans
+47,fair,male,east,winter,party,jeans
+21,dark,male,west,spring,party,jeans
+27,medium,male,north,summer,wedding,blazer
+29,dark,male,north,spring,wedding,blazer
+37,dark,male,north,winter,wedding,blazer
+46,medium,female,north,spring,casual,jeans
+27,medium,male,south,summer,party,hoodie
+37,medium,female,west,monsoon,wedding,saree
+17,dark,female,east,monsoon,casual,jeans
+56,fair,male,west,monsoon,formal,formal shirt
+24,fair,male,north,winter,formal,formal shirt
+47,fair,female,west,monsoon,formal,kurti
+60,dark,female,west,monsoon,wedding,saree
+22,dark,female,west,spring,formal,kurti
+41,medium,female,east,spring,casual,jeans
+60,fair,female,east,summer,formal,blazer
+49,fair,female,west,winter,formal,blazer
+15,fair,male,east,monsoon,wedding,blazer
+53,dark,male,west,spring,wedding,blazer
+15,medium,female,east,monsoon,formal,kurti
+34,medium,male,south,monsoon,wedding,blazer
+56,dark,female,south,summer,casual,jeans
+21,fair,male,east,monsoon,formal,formal shirt
+42,fair,female,east,spring,party,dress
+55,medium,male,west,winter,formal,formal shirt
+56,fair,female,east,summer,formal,kurti
+51,medium,female,east,spring,formal,blazer
+45,medium,male,west,winter,party,hoodie
+23,fair,female,north,monsoon,party,dress
+40,medium,male,south,summer,casual,casual t-shirt
+44,dark,female,south,spring,wedding,saree
+54,fair,female,east,monsoon,wedding,saree
+58,dark,male,east,monsoon,formal,formal shirt
+42,medium,male,south,monsoon,wedding,blazer
+41,fair,female,north,summer,casual,kurti
+53,medium,female,west,monsoon,casual,kurti
+54,dark,male,south,winter,formal,formal shirt
+31,medium,male,north,summer,wedding,blazer
+23,fair,female,south,monsoon,party,dress
+35,dark,male,north,summer,casual,jeans
+38,medium,female,south,summer,wedding,saree
+59,medium,female,north,monsoon,wedding,saree
+20,dark,female,north,spring,party,dress
+15,fair,female,west,summer,casual,jeans
+41,fair,female,west,winter,party,kurti
+36,dark,female,east,winter,party,dress
+37,dark,female,north,monsoon,wedding,saree
+29,medium,male,east,monsoon,party,jeans
+19,dark,male,south,summer,formal,formal shirt
+20,medium,female,east,winter,formal,blazer
+53,dark,female,south,winter,wedding,saree
+18,dark,female,west,monsoon,casual,kurti
+16,fair,female,north,summer,wedding,saree
+52,fair,male,west,winter,wedding,blazer
+53,fair,female,east,winter,casual,kurti
+57,dark,male,west,monsoon,casual,casual t-shirt
+59,dark,female,north,winter,party,dress
+50,fair,male,east,monsoon,formal,formal shirt
+51,fair,female,south,monsoon,formal,blazer
+36,medium,female,north,summer,party,kurti
+38,medium,female,east,summer,wedding,saree
+28,fair,female,south,spring,formal,kurti
+23,dark,male,south,monsoon,wedding,blazer
+40,dark,male,south,summer,wedding,blazer
+29,medium,female,east,summer,wedding,saree
+51,fair,female,north,monsoon,party,kurti
+23,fair,male,east,summer,formal,formal shirt
+60,medium,female,north,spring,party,kurti
+53,medium,male,east,monsoon,formal,formal shirt
+18,medium,male,north,spring,party,hoodie
+31,fair,female,west,winter,casual,kurti
+19,dark,male,west,winter,formal,formal shirt
+35,medium,male,north,monsoon,party,hoodie
+21,dark,male,south,monsoon,party,hoodie
+22,fair,female,east,winter,formal,kurti
+41,fair,female,east,spring,formal,kurti
+20,medium,male,south,summer,party,jeans
+49,dark,female,west,winter,party,kurti
+24,medium,female,east,winter,wedding,saree
+16,medium,male,east,monsoon,casual,casual t-shirt
+28,medium,female,south,winter,wedding,saree
+50,dark,female,south,winter,formal,blazer
+44,medium,female,south,spring,formal,blazer
+25,medium,male,east,monsoon,wedding,blazer
+18,fair,female,north,spring,formal,blazer
+52,dark,male,west,monsoon,casual,jeans
+57,fair,male,north,summer,casual,casual t-shirt
+29,dark,male,west,summer,formal,formal shirt
+39,fair,male,west,winter,casual,casual t-shirt
+48,medium,female,east,winter,casual,jeans
+16,fair,male,north,summer,formal,formal shirt
+18,fair,male,south,spring,casual,jeans
+51,dark,female,south,monsoon,party,dress
+21,dark,female,north,summer,party,dress
+39,dark,female,south,spring,wedding,saree
+22,fair,male,west,summer,wedding,blazer
+54,fair,male,east,summer,wedding,blazer
+22,medium,male,east,spring,formal,formal shirt
+37,medium,male,east,winter,party,jeans
+29,fair,male,north,winter,wedding,blazer
+18,fair,male,south,monsoon,casual,jeans
+39,medium,male,south,monsoon,casual,jeans
+57,fair,male,east,winter,wedding,blazer
+58,medium,female,east,winter,party,dress
+50,fair,male,west,spring,formal,formal shirt
+33,fair,male,west,summer,casual,casual t-shirt
+23,fair,male,west,summer,wedding,blazer
+23,medium,female,south,winter,casual,kurti
+30,medium,female,west,spring,party,dress
+34,dark,female,south,summer,wedding,saree
+54,fair,male,south,spring,casual,jeans
+47,medium,female,west,monsoon,party,kurti
+58,fair,male,east,monsoon,party,hoodie
+38,medium,male,north,winter,wedding,blazer
+51,medium,male,north,monsoon,casual,jeans
+38,fair,male,east,winter,casual,jeans
+51,medium,male,west,spring,party,hoodie
+25,fair,male,east,summer,casual,casual t-shirt
+48,fair,male,north,monsoon,wedding,blazer
+55,medium,female,south,spring,formal,blazer
+55,medium,male,east,winter,casual,casual t-shirt
+19,dark,male,west,spring,casual,casual t-shirt
+32,fair,female,north,spring,party,dress
+55,fair,male,west,winter,formal,formal shirt
+59,dark,female,north,monsoon,casual,jeans
+53,dark,female,north,summer,casual,kurti
+37,fair,male,west,winter,party,jeans
+43,medium,male,east,spring,wedding,blazer
+22,dark,male,west,monsoon,wedding,blazer
+33,dark,female,south,summer,party,kurti
+31,dark,female,south,summer,wedding,saree
+29,medium,female,west,spring,casual,kurti
+60,fair,female,south,summer,formal,blazer
+56,medium,male,south,monsoon,wedding,blazer
+55,dark,female,east,spring,formal,kurti
+59,fair,male,east,winter,party,jeans
+36,dark,female,north,summer,casual,kurti
+30,fair,male,east,monsoon,party,jeans
+38,dark,female,south,winter,wedding,saree
+44,fair,female,north,monsoon,wedding,saree
+26,dark,female,west,summer,formal,blazer
+48,medium,female,east,spring,wedding,saree
+22,fair,male,east,monsoon,party,jeans
+25,dark,male,north,monsoon,formal,formal shirt
+27,dark,female,west,monsoon,wedding,saree
+32,fair,male,east,winter,formal,formal shirt
+38,dark,female,north,summer,casual,kurti
+28,fair,female,east,monsoon,party,kurti
+47,medium,female,east,monsoon,party,dress
+43,dark,female,south,winter,wedding,saree
+18,medium,male,south,monsoon,formal,formal shirt
+56,fair,female,north,monsoon,party,dress
+23,dark,female,north,winter,formal,kurti
+57,dark,female,west,spring,casual,jeans
+51,fair,female,south,winter,wedding,saree
+35,medium,male,west,winter,party,jeans
+36,dark,female,east,monsoon,casual,kurti
+15,fair,female,south,monsoon,wedding,saree
+31,fair,male,west,monsoon,wedding,blazer
+18,fair,male,north,monsoon,formal,formal shirt
+28,fair,male,north,monsoon,party,jeans
+42,dark,male,east,winter,wedding,blazer
+29,dark,male,south,summer,wedding,blazer
+35,medium,male,north,spring,casual,jeans
+20,dark,female,north,spring,party,kurti
+48,fair,male,west,winter,wedding,blazer
+56,fair,male,north,spring,casual,casual t-shirt
+44,dark,female,south,spring,formal,blazer
+48,fair,male,west,spring,formal,formal shirt
+43,dark,female,north,monsoon,casual,jeans
+42,dark,female,east,spring,party,kurti
+59,fair,female,east,monsoon,party,kurti
+60,fair,male,west,spring,formal,formal shirt
+15,fair,male,north,summer,party,hoodie
+59,medium,male,east,winter,party,hoodie
+29,fair,male,east,summer,wedding,blazer
+29,medium,female,west,spring,party,dress
+49,medium,female,west,monsoon,casual,jeans
+24,medium,male,south,spring,formal,formal shirt
+22,dark,male,west,winter,casual,casual t-shirt
+21,medium,female,west,winter,formal,blazer
+31,fair,female,north,monsoon,wedding,saree
+59,fair,male,south,spring,party,hoodie
+47,fair,female,east,spring,wedding,saree
+42,dark,female,west,summer,party,dress
+57,fair,male,north,spring,party,hoodie
+55,medium,male,west,winter,party,hoodie
+29,fair,female,west,spring,wedding,saree
+48,fair,male,east,winter,casual,jeans
+51,medium,male,north,winter,formal,formal shirt
+32,fair,male,north,summer,party,jeans
+32,dark,male,south,monsoon,party,hoodie
+18,fair,male,west,spring,party,hoodie
+22,dark,female,east,winter,wedding,saree
+56,medium,male,south,monsoon,formal,formal shirt
+40,medium,female,south,spring,party,kurti
+54,medium,female,north,spring,party,dress
+26,fair,male,east,winter,formal,formal shirt
+57,dark,female,west,spring,casual,kurti
+26,medium,female,west,monsoon,wedding,saree
+31,dark,male,south,winter,casual,jeans
+16,dark,male,north,summer,wedding,blazer
+56,fair,male,east,monsoon,wedding,blazer
+32,medium,male,east,spring,formal,formal shirt
+41,dark,female,west,monsoon,party,kurti
+30,medium,male,north,monsoon,party,jeans
+15,dark,male,west,monsoon,party,jeans
+18,dark,female,south,spring,casual,kurti
+57,dark,male,south,summer,casual,casual t-shirt
+17,medium,female,east,spring,wedding,saree
+57,fair,male,north,summer,formal,formal shirt
+50,fair,female,west,monsoon,wedding,saree
+35,medium,male,north,winter,formal,formal shirt
+22,medium,female,east,winter,wedding,saree
+24,medium,male,east,monsoon,casual,jeans
+58,dark,male,west,monsoon,casual,casual t-shirt
+41,dark,male,south,spring,formal,formal shirt
+55,fair,male,north,monsoon,casual,casual t-shirt
+40,fair,male,west,winter,wedding,blazer
+39,fair,male,west,summer,party,jeans
+46,dark,female,west,monsoon,formal,blazer
+20,medium,male,north,summer,party,jeans
+16,medium,male,west,winter,casual,casual t-shirt
+51,medium,male,west,spring,party,jeans
+24,dark,female,west,summer,casual,kurti
+15,fair,male,east,winter,formal,formal shirt
+56,medium,female,east,monsoon,formal,kurti
+22,medium,female,west,summer,casual,jeans
+30,dark,male,north,summer,casual,jeans
+21,medium,female,south,monsoon,formal,blazer
+34,fair,male,west,winter,formal,formal shirt
+59,dark,female,south,monsoon,party,kurti
+56,medium,male,west,monsoon,casual,casual t-shirt
+43,fair,female,south,winter,wedding,saree
+58,medium,female,west,spring,party,kurti
+15,dark,male,north,winter,casual,casual t-shirt
+30,medium,female,south,winter,party,kurti
+22,medium,male,east,winter,formal,formal shirt
+48,medium,male,south,monsoon,wedding,blazer
+27,medium,male,east,summer,party,hoodie
+22,medium,female,south,winter,party,kurti
+36,medium,female,south,spring,casual,jeans
+25,fair,female,south,monsoon,party,kurti
+55,fair,female,east,winter,formal,blazer
+36,medium,female,south,winter,party,kurti
+60,fair,male,north,summer,wedding,blazer
+30,dark,female,east,winter,formal,blazer
+35,dark,male,east,spring,formal,formal shirt
+53,medium,female,south,spring,formal,blazer
+17,dark,female,south,summer,party,dress
+19,medium,female,east,spring,casual,jeans
+19,fair,female,south,monsoon,formal,blazer
+41,dark,female,south,spring,casual,jeans
+28,dark,male,north,spring,party,hoodie
+43,medium,male,north,summer,casual,jeans
+17,dark,female,south,winter,casual,kurti
+39,fair,male,west,summer,wedding,blazer
+48,medium,male,north,spring,casual,jeans
+22,medium,male,north,winter,wedding,blazer
+44,medium,male,south,summer,casual,jeans
+27,dark,female,east,spring,party,dress
+24,fair,female,north,monsoon,wedding,saree
+47,dark,female,south,winter,casual,kurti
+23,fair,male,north,spring,casual,casual t-shirt
+25,fair,male,north,monsoon,wedding,blazer
+35,dark,male,east,spring,formal,formal shirt
+22,dark,female,south,winter,formal,kurti
+18,fair,male,north,monsoon,casual,jeans
+58,medium,male,west,summer,casual,jeans
+51,medium,male,east,monsoon,formal,formal shirt
+36,dark,male,south,winter,formal,formal shirt
+32,fair,female,north,winter,casual,kurti
+19,medium,male,east,monsoon,casual,jeans
+22,medium,male,north,spring,casual,casual t-shirt
+36,dark,male,west,summer,wedding,blazer
+40,dark,female,south,spring,wedding,saree
+37,medium,male,west,summer,wedding,blazer
+43,fair,male,south,monsoon,wedding,blazer
+45,fair,female,south,spring,casual,kurti
+39,fair,male,east,winter,party,hoodie
+41,dark,male,south,summer,party,jeans
+23,medium,male,north,monsoon,casual,jeans
+31,fair,male,south,spring,wedding,blazer
+16,medium,female,east,spring,casual,kurti
+26,dark,male,west,summer,casual,casual t-shirt
+16,fair,male,north,summer,formal,formal shirt
+16,fair,male,west,spring,casual,casual t-shirt
+28,medium,male,south,monsoon,party,hoodie
+45,dark,male,east,monsoon,formal,formal shirt
+30,fair,female,west,winter,party,dress
+31,fair,male,west,winter,formal,formal shirt
+20,medium,female,south,monsoon,wedding,saree
+24,dark,female,east,spring,party,dress
+44,fair,male,north,winter,party,jeans
+59,medium,female,east,summer,wedding,saree
+24,fair,female,south,winter,wedding,saree
+30,fair,female,east,winter,casual,jeans
+40,dark,male,north,summer,casual,casual t-shirt
+29,dark,male,west,winter,casual,casual t-shirt
+31,fair,female,east,summer,formal,kurti
+21,dark,male,south,spring,wedding,blazer
+18,dark,female,west,summer,casual,jeans
+33,dark,female,west,winter,wedding,saree
+46,fair,female,north,monsoon,wedding,saree
+42,fair,male,south,winter,formal,formal shirt
+50,fair,female,south,winter,formal,blazer
+31,fair,male,south,monsoon,wedding,blazer
+25,fair,female,west,spring,formal,blazer
+20,dark,male,west,summer,casual,casual t-shirt
+46,dark,female,east,monsoon,party,dress
+25,fair,female,south,summer,casual,kurti
+30,dark,male,west,winter,party,hoodie
+57,dark,male,west,summer,wedding,blazer
+50,dark,female,west,spring,party,kurti
+44,dark,male,west,winter,formal,formal shirt
+39,fair,female,south,summer,casual,kurti
+53,fair,male,east,winter,casual,casual t-shirt
+49,medium,female,north,winter,casual,kurti
+57,dark,male,north,monsoon,party,jeans
+15,dark,female,west,spring,party,kurti
+41,fair,female,east,summer,casual,jeans
+34,dark,male,south,spring,party,jeans
+20,dark,female,north,winter,casual,jeans
+49,medium,male,south,spring,party,jeans
+47,medium,male,east,spring,wedding,blazer
+58,dark,female,west,summer,casual,jeans
+45,fair,female,west,winter,formal,kurti
+19,medium,male,south,monsoon,formal,formal shirt
+17,fair,female,north,winter,casual,jeans
+28,dark,female,west,winter,formal,blazer
+34,medium,male,east,spring,formal,formal shirt
+57,medium,female,north,monsoon,party,dress
+37,fair,female,south,winter,formal,kurti
+24,fair,male,east,winter,casual,jeans
+37,medium,male,east,spring,wedding,blazer
+16,medium,male,west,spring,casual,casual t-shirt
+38,fair,male,south,spring,casual,casual t-shirt
+50,dark,female,south,summer,casual,kurti
+39,dark,male,west,winter,party,hoodie
+30,fair,male,south,winter,wedding,blazer
+50,medium,male,north,summer,casual,jeans
+37,fair,male,south,winter,formal,formal shirt
+23,fair,female,west,monsoon,casual,kurti
+54,medium,male,south,monsoon,casual,jeans
+20,dark,female,north,monsoon,casual,jeans
